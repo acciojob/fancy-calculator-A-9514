@@ -1,0 +1,4 @@
+{
+    "testRepo": "fancy-calculator-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
